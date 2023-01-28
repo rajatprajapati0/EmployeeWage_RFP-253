@@ -21,7 +21,7 @@ namespace Employee_Wage
 
             if (n == 0)
             {
-                Console.WriteLine("Employee is Absent");
+                Console.WriteLine("Employee is Absent "+wage);
             }
             else
             {
