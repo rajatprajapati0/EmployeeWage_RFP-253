@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Employee_Wage
 {
@@ -6,7 +6,7 @@ namespace Employee_Wage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Employee Wage Computation");
         }
     }
 }
